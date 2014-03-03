@@ -1,9 +1,9 @@
 {
-  "name": "monokai dark",
+  "name": "atom-monokai-dark",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
-  "description": "A monokai theme",
+  "description": "A modified monokai syntax theme that fits to Atom Dark UI",
   "repository": "https://github.com/burntime/monokai",
   "license": "MIT",
   "engines": {
